@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-generators-async",
+  "version": "1.0.0",
+  "description": "experiment with express and generators",
+  "main": "index.js",
+  "devDependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "morgan": "^1.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "generators",
+    "async"
+  ],
+  "author": "Egor Smirnov",
+  "license": "ISC"
+}
