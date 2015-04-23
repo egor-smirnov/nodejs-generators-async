@@ -2,7 +2,7 @@
   "name": "nodejs-generators-async",
   "version": "1.0.0",
   "description": "experiment with express and generators",
-  "main": "index.js",
+  "main": "app.js",
   "devDependencies": {
     "express": "^4.12.3",
     "jade": "^1.9.2",
